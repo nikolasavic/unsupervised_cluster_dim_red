@@ -11,8 +11,7 @@ Running the code:
 
 2) Start Jupyter Notebook server with the following command: `jupyter notebook`
 
-3) You can run all cells to get the complete report, although it may take some time.  In particular,
-   the 3 neural network grid searches take quite a bit of time.
+3) You can run all cells to get the complete report, although it may take some time.
 
 
 Versions:
